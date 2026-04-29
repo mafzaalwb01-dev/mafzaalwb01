@@ -48,18 +48,18 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mafzaalwb01&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mafzaalwb01-dev&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mafzaalwb01&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mafzaalwb01-dev&theme=tokyonight" />
 </p>
 
 ---
 
 ## 🌍 Connect With Me
 
-- 📧 Email: **mafzaalwbo1**
+- 📧 Email: **mafzaalwbo1@gamil.com**
 - 💼 LinkedIn:  
 👉 https://www.linkedin.com/in/muhammad-afzaal-khan-370915404/
 
